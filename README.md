@@ -9,9 +9,10 @@
 
 
 **DevOps from Development to Deployment/Production นี้ ผู้เข้าอบรมจะได้ลงมือปฏิบัติอย่างจริงจัง โดยเริ่มตั้งแต่**
-```
-การจัดการ Version Control System ด้วย Git
-การ deploy application แบบ container ด้วย Docker, Kubernetes และ Helm
-การทํา CI/CD ด้วย Jenkins
+
+1. การจัดการ Version Control System ด้วย Git
+2. การ deploy application แบบ container ด้วย Docker, Kubernetes และ Helm
+3. การทํา CI/CD ด้วย Jenkins
+
 โดย Workshop ทั้งหมดจะทําในรูปแบบของ step-by-step ด้วย Infrastructure as Code
-```
+
