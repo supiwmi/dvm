@@ -20,14 +20,14 @@
 
 1. Install and Use Visual Studio Code on Windows 10
 
-  - ตัวอย่างใน Youtube - https://www.youtube.com/watch?v=MlIzFUI1QGA
-  - ดูวิธีการติดตั้งได้ที่นี่ Setting up Visual Studio Code  https://code.visualstudio.com/docs/setup/setup-overview
+   - ตัวอย่างใน Youtube - https://www.youtube.com/watch?v=MlIzFUI1QGA
+   - ดูวิธีการติดตั้งได้ที่นี่ Setting up Visual Studio Code  https://code.visualstudio.com/docs/setup/setup-overview
 
 2. ติดตั้ง Windows Subsystem for Linux เพื่อให้ใช้ คำสั่ง Windows และ Linux ได้ในเครื่องเดียวกัน
 
    - ดูวิธีการติดตั้งได้ที่นี่ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
-4. ติดตั้ง Oracle VM VirtualBox ช่วยให้เรา develop และเรียกใช้ระบบปฏิบัติการหลายระบบ(Windows/Linux/ etc) ในอุปกรณ์เดียว
+3. ติดตั้ง Oracle VM VirtualBox ช่วยให้เรา develop และเรียกใช้ระบบปฏิบัติการหลายระบบ(Windows/Linux/ etc) ในอุปกรณ์เดียว
    เหมือนกับว่าเรามี local cloud ในเครื่อง PC เราเลย
    
-   - d
+   - ดูวิธีการติดตั้งได้ที่นี่  https://www.virtualbox.org/manual/ch01.html#intro-starting
