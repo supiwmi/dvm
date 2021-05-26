@@ -21,7 +21,7 @@
 
 1. Install and Use Visual Studio Code on Windows 10
 
-   - ตัวอย่างใน Youtube - https://www.youtube.com/watch?v=MlIzFUI1QGA
+   - ตัวอย่างใน Youtube https://www.youtube.com/watch?v=MlIzFUI1QGA
    - ดูวิธีการติดตั้งได้ที่นี่ Setting up Visual Studio Code  https://code.visualstudio.com/docs/setup/setup-overview
 
 2. ติดตั้ง Windows Subsystem for Linux เพื่อให้ใช้ คำสั่ง Windows และ Linux ได้ในเครื่องเดียวกัน
