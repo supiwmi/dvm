@@ -7,11 +7,11 @@
    ดูตัวอย่างได้ที่นี่ https://phoenixnap.com/kb/how-to-install-git-windows 
 2. Remote version control system ซึ้งมีมากมายแล้วแต่ว่าใครจะอยากใช้แบบไหน มีทั้งแบบ ฟรี และ เสียเงิน หรือ จะทำเป็นแบบ private server เช่น GitLab ก็ได้
 
-'''
+
 DevOps from Development to Deployment/Production นี้ ผู้เข้าอบรมจะได้ลงมือปฏิบัติอย่างจริงจัง โดยเริ่มตั้งแต่
 
 การจัดการ Version Control System ด้วย Git
 การ deploy application แบบ container ด้วย Docker, Kubernetes และ Helm
 การทํา CI/CD ด้วย Jenkins
 โดย Workshop ทั้งหมดจะทําในรูปแบบของ step-by-step ด้วย Infrastructure as Code
-'''
+
