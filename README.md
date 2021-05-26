@@ -7,7 +7,7 @@
    ดูตัวอย่างได้ที่นี่ https://phoenixnap.com/kb/how-to-install-git-windows 
 2. Remote version control system ซึ้งมีมากมายแล้วแต่ว่าใครจะอยากใช้แบบไหน มีทั้งแบบ ฟรีและเสียเงิน หรือ จะทำเป็นแบบ private server เช่น GitLab ก็ได้
   เราจะใช้ GitHUb ทีมี developer มากกว่า 65 ล้านคนใช้เพือ hosting for software development and version control using Git
-
+  - ถ้ายังไม่เคยมี github account สมัครและใช้ฟรีได้ที่นี https://github.com/
 
 **DevOps from Development to Deployment/Production นี้ ผู้เข้าอบรมจะได้ลงมือปฏิบัติอย่างจริงจัง โดยเริ่มตั้งแต่**
 
