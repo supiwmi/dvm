@@ -5,7 +5,8 @@
 การที่จะทำแบบนั้นได้เราต้องมี 2
 1. โปรแกรม git ที่คอยจัดการ version control system - ส่วนใหญ่จะใ้ช้เป็นแบบ local คือ install ที่เครื่อง Notebook/PC 
    ดูตัวอย่างได้ที่นี่ https://phoenixnap.com/kb/how-to-install-git-windows 
-2. Remote version control system ซึ้งมีมากมายแล้วแต่ว่าใครจะอยากใช้แบบไหน มีทั้งแบบ ฟรี และ เสียเงิน หรือ จะทำเป็นแบบ private server เช่น GitLab ก็ได้
+2. Remote version control system ซึ้งมีมากมายแล้วแต่ว่าใครจะอยากใช้แบบไหน มีทั้งแบบ ฟรีและเสียเงิน หรือ จะทำเป็นแบบ private server เช่น GitLab ก็ได้
+  เราจะใช้ GitHUb ทีมี developer มากกว่า 65 ล้านคนใช้เพือ hosting for software development and version control using Git
 
 
 **DevOps from Development to Deployment/Production นี้ ผู้เข้าอบรมจะได้ลงมือปฏิบัติอย่างจริงจัง โดยเริ่มตั้งแต่**
